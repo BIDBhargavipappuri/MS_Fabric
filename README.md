@@ -18,4 +18,9 @@ It lets you process huge datasets (gigabytes to terabytes) across multiple machi
 •	Optimizing large datasets
 •	Running notebooks at scale
 
-I followed video from YouTube - https://www.youtube.com/watch?v=4aYKegIC6S0&list=LL&index=1&t=2783s   
+I followed video from YouTube - https://www.youtube.com/watch?v=4aYKegIC6S0&list=LL&index=1&t=2783s  
+
+# Best Practices - 
+
+1) Dont try to break the pyspark parllelism split feature and try save data in single file
+2) Use Tempview tables if you want to register any table in order to split between processing language like from pythont to SQL.
