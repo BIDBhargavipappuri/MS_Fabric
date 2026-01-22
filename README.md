@@ -17,3 +17,5 @@ It lets you process huge datasets (gigabytes to terabytes) across multiple machi
 •	Writing Delta tables
 •	Optimizing large datasets
 •	Running notebooks at scale
+
+I followed video from YouTube - https://www.youtube.com/watch?v=4aYKegIC6S0&list=LL&index=1&t=2783s   
