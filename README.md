@@ -23,4 +23,4 @@ I followed video from YouTube - https://www.youtube.com/watch?v=4aYKegIC6S0&list
 # Best Practices - 
 
 1) Dont try to break the pyspark parllelism split feature and try save data in single file
-2) Use Tempview tables if you want to register any table in order to split between processing language like from pythont to SQL.
+2) Use Tempview(this exists only till that session) tables if you want to register any table in order to split between processing language like from pythont to SQL.
