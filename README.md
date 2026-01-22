@@ -5,9 +5,9 @@ This helps to build end to end solutions on 1 platform.
 
 Fabric includes the following services:
 
-Data engineering
-Data integration
-Data warehousing
-Real-time intelligence
-Data science
+Data engineering          
+Data integration    
+Data warehousing    
+Real-time intelligence    
+Data science    
 Business intelligence
