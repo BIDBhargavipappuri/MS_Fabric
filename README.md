@@ -28,3 +28,5 @@ I followed video from YouTube - https://www.youtube.com/watch?v=4aYKegIC6S0&list
 • You can view how I worked on Pyspark in MSFabric in the video link below.
 
 https://youtu.be/9pHoFAFVaqE 
+
+Note- Switch on subtitles, due to audio issue , i have added subtitles
