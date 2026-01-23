@@ -24,3 +24,7 @@ I followed video from YouTube - https://www.youtube.com/watch?v=4aYKegIC6S0&list
 
 1) Dont try to break the pyspark parllelism split feature and try save data in single file
 2) Use Tempview(this exists only till that session) tables if you want to register any table in order to split between processing language like from pythont to SQL.
+
+• You can view how I worked on Pyspark in MSFabric in the video link below.
+
+https://youtu.be/9pHoFAFVaqE 
