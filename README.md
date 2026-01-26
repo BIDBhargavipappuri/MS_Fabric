@@ -12,7 +12,16 @@ A pipeline is a logical container that groups together a set of activities to pe
    
   •	Control Flow Activities – loops, conditional branching, on demand activities.
    
-  •	 Data Movement Activities - copy data, ingesting the data in to destination 
+  •	 Data Movement Activities - copy data, ingesting the data in to destination.
+
+# Simple Differences (ADF Pipeline vs Fabric Pipeline) 
+
+| Feature            | Azure Data Factory (ADF) Pipeline        | Microsoft Fabric Pipeline                 |
+|-------------------|-------------------------------------------|-------------------------------------------|
+| Trigger Types     | Schedule,Tumbling Window,storage,Event-based    | Only Schedule trigger                     |
+| Integration       | Azure services + On‑prem via IR           | Fabric items (Lakehouse, Warehouse, PBI)  |
+| Compute           | Uses Integration Runtime (IR)             | Uses Fabric Capacity (no IR needed)       |
+| Main Use Case     | Enterprise data integration               | End‑to‑end analytics inside Fabric        |
 
 # You can view how I worked on pipelines in MSFabric in the video link below.
 
