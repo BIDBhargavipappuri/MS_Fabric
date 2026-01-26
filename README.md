@@ -14,5 +14,8 @@ A pipeline is a logical container that groups together a set of activities to pe
    
   •	 Data Movement Activities - copy data, ingesting the data in to destination 
 
-  
+# You can view how I worked on pipelines in MSFabric in the video link below.
+
+
+
 
