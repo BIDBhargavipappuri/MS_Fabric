@@ -1,17 +1,19 @@
-# Agenda in MicroSoft_Fabric
+# Dataflow Gen2 in Microsoft Fabric
 
-To demonstrate my learning in the Microsoft Fabric, I created a series of videos showcasing the solutions I have built in branches. Since the Microsoft Fabric trial version integrates closely with Azure DevOps, these videos highlight my hands‑on work and provide direct URLs for viewers to explore the implementations in detail.
+Dataflow Gen2 is a Power Query–based ETL tool inside Microsoft Fabric that lets you extract, transform, and load data into OneLake using a no‑code or low‑code interface.
 
-# MicroSoft_Fabric
+It’s basically Power Query + Fabric compute + Delta Lake output.
 
-Fabric is software as a service (SAAS) cloud platform where we can do all data engineering, data analytics, data scientists work on single platform.
-This helps to build end to end solutions on 1 platform.
+## 🚀 Dataflow Gen2 — Quick Summary
 
-Fabric includes the following services:
-
-Data engineering          
-Data integration    
-Data warehousing    
-Real-time intelligence    
-Data science    
-Business intelligence
+| Feature                | Description |
+|------------------------|-------------|
+| Purpose                | No‑code/low‑code ETL using Power Query |
+| Runs On                | Fabric compute (capacity-based) |
+| Output Format          | Delta tables, SQL tables, CSV (limited), Power BI tables |
+| Output Storage         | Lakehouse, Warehouse, SQL database, Azure SQL database, Azure Data Explorer (Kusto), Power BI Datamart |
+| Best For               | Data preparation, cleansing, lightweight ETL |
+| Integration            | Lakehouse, Warehouse, Pipelines, Power BI |
+| Refresh Options        | Manual, Scheduled, Pipeline-triggered |
+| Incremental Refresh    | Supported |
+| RLS Support            | Not supported in Dataflow Gen2 (apply RLS in Power BI semantic model) |
