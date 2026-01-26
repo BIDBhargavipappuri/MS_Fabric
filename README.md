@@ -1,3 +1,4 @@
+
 # Dataflow Gen2 in Microsoft Fabric
 
 Dataflow Gen2 is a Power Query–based ETL tool inside Microsoft Fabric that lets you extract, transform, and load data into OneLake using a no‑code or low‑code interface.
@@ -17,3 +18,6 @@ It’s basically Power Query + Fabric compute + Delta Lake output.
 | Refresh Options        | Manual, Scheduled, Pipeline-triggered |
 | Incremental Refresh    | Supported |
 | RLS Support            | Not supported in Dataflow Gen2 (apply RLS in Power BI semantic model) |
+
+
+# You can view how I worked on Dataflow Gen2 in MSFabric in the video link below.
