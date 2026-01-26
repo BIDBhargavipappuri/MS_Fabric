@@ -1,17 +1,18 @@
-# Agenda in MicroSoft_Fabric
+# Pipeline in MicroSoft_Fabric
 
-To demonstrate my learning in the Microsoft Fabric, I created a series of videos showcasing the solutions I have built in branches. Since the Microsoft Fabric trial version integrates closely with Azure DevOps, these videos highlight my hands‑on work and provide direct URLs for viewers to explore the implementations in detail.
+A pipeline in Microsoft Fabric is a tool that helps you automate and schedule data tasks like copying data, running notebooks, refreshing Power BI, or loading data into a Lakehouse.
 
-# MicroSoft_Fabric
+It works similar to ADF pipelines but is built inside Fabric and tightly connected to OneLake.
 
-Fabric is software as a service (SAAS) cloud platform where we can do all data engineering, data analytics, data scientists work on single platform.
-This helps to build end to end solutions on 1 platform.
+A pipeline is a logical container that groups together a set of activities to perform a complete data integration workflow. It defines how data moves, transforms, and is orchestrated across different systems.
 
-Fabric includes the following services:
+# Broad categories of activities in pipeline:
 
-Data engineering          
-Data integration    
-Data warehousing    
-Real-time intelligence    
-Data science    
-Business intelligence
+  •	 Data Transformation Activities – applying transformations, activities like aggregations.
+   
+  •	Control Flow Activities – loops, conditional branching, on demand activities.
+   
+  •	 Data Movement Activities - copy data, ingesting the data in to destination 
+
+  
+
