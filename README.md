@@ -25,6 +25,8 @@ A pipeline is a logical container that groups together a set of activities to pe
 
 # You can view how I worked on pipelines in MSFabric in the video link below.
 
+https://youtu.be/S8yrTQ30Upk  
+
 
 
 
