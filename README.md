@@ -21,3 +21,5 @@ It’s basically Power Query + Fabric compute + Delta Lake output.
 
 
 # You can view how I worked on Dataflow Gen2 in MSFabric in the video link below.
+
+https://youtu.be/bLURns34rag 
