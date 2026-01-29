@@ -1,17 +1,31 @@
-# Agenda in MicroSoft_Fabric
+# Real Time Analytics:
 
-To demonstrate my learning in the Microsoft Fabric, I created a series of videos showcasing the solutions I have built in branches. Since the Microsoft Fabric trial version integrates closely with Azure DevOps, these videos highlight my hands‑on work and provide direct URLs for viewers to explore the implementations in detail.
+Real Time Analytics leverages Ingesting, transforming, storing, visualizing real time data. This also support real-time insights and automated activators. 
 
-# MicroSoft_Fabric
+In Microsoft Fabric, it’s delivered through:
 
-Fabric is software as a service (SAAS) cloud platform where we can do all data engineering, data analytics, data scientists work on single platform.
-This helps to build end to end solutions on 1 platform.
+Eventstream
 
-Fabric includes the following services:
+Eventhouse
 
-Data engineering          
-Data integration    
-Data warehousing    
-Real-time intelligence    
-Data science    
-Business intelligence
+KQL
+
+Activator
+
+•	Processes data instantly as it’s generated, instead of waiting for batch loads or scheduled refreshes.
+
+•	Works with events and streams, meaning continuous flows of small pieces of data (sensor readings, clicks, transactions).
+
+•	Enables immediate insights and actions, such as alerts, automated workflows, or live dashboards.
+
+•	Components of real-time analytics solutions- 
+    Real-time data ingestion
+    Stream processing
+    Low-latency storage
+    Interactive dashboards
+    Automated decision making
+    
+•	Helps detect anomalies, trends, and opportunities the moment they occur.
+
+•	Powers scenarios like fraud detection, IoT monitoring, live personalization, and operational dashboards.
+
