@@ -29,6 +29,7 @@ Activator
 
 •	Powers scenarios like fraud detection, IoT monitoring, live personalization, and operational dashboards.
 
+# You can view my practice regarding Real Time Intelligence in Fabric in below video
 
 https://youtu.be/OT-Fc6Jp2b0
 
